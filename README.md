@@ -24,7 +24,7 @@ Learn more about :
 - [Website](https://dial.to/?action=solana-action:https://launchmynft.io/api/actions/FLrFig2wJnvDw59QMKYnakA5M6v7xGPXCBy6ZXTKYve/fNhoIIyK8Bs5FuMMU7eu)
 
 
-## 内部测试 - 运行 Docker 容器
+## 运行 Docker 容器 - 内部测试，还有 bug
 
 ```sh
 docker run -it --rm \
